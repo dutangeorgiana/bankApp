@@ -1,0 +1,18 @@
+name:dutan
+first name:georgiana
+adress:brasov, strada zizinului
+phone number:08965
+account number:123
+amount:4500
+name:dabici
+first name:irina
+adress:brasov, strada trandafirilor
+phone number:09876
+account number:234
+amount:450
+name:chirita
+first name:ana
+adress:brasov, strada tudor arghezi, nr 5
+phone number:097654
+account number:345
+amount:5000

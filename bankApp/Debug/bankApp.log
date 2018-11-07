@@ -1,0 +1,3 @@
+﻿  customer.cpp
+d:\diverse\bankappui_9\bankapp\customer.cpp(152): warning C4018: '<': signed/unsigned mismatch
+  bankApp.vcxproj -> D:\Diverse\bankAppUI_9\Debug\bankApp.exe
